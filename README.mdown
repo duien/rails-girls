@@ -1,0 +1,7 @@
+# Rails Girls
+Homework assignments for the ATL Rails Girls meetup.
+
+1. Fizz Buzz
+2. First Sundays
+
+   See also https://github.com/duien/project-euler/blob/master/euler-019.rb
